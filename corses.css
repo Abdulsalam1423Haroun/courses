@@ -1,0 +1,40 @@
+* {
+  margin: 0 auto;
+}
+#title {
+  font-size: 20px;
+  text-align: center;
+}
+h2 {
+
+  color: red;
+  font-size: 40px;
+}
+h1 {
+
+}
+#hi {
+  font-size: 40px;
+  margin: 0 auto;
+
+  float: right;
+  width: 50%;
+  border-left: solid black;
+}
+a {
+  color: rgb(3, 71, 71);
+}
+#sidebar {
+
+  float: right;
+  width: 49.7%;
+  font-size: 40px;
+  height: 35 px;
+
+}
+img {
+  margin: 46px;
+}
+#imgs{
+
+}
